@@ -1,0 +1,1 @@
+<img class="img-responsive" src="<?php echo mdh_avatar_preview_url(osc_user_id()); ?>" />
